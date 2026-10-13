@@ -1,0 +1,2 @@
+# No third-party dependencies — Python 3 standard library only.
+# Requires: Python 3.8+ and git on PATH.
